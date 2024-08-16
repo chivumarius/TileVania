@@ -3,6 +3,38 @@
 ## Overview
 "TileVania" is a 2D platformer game created in Unity and C#, where players must navigate through various platforms, avoiding traps and enemies to escape.
 
+
+![Game Start](https://i.imgur.com/VTEt4zm.jpeg)
+*The player starts the game looking for the exit portal, being able to move and jump over obstacles.*
+
+
+![Playing the Game](https://i.imgur.com/x4yRtEr.jpeg)
+*The player must avoid falling into the spikes, because he will lose his life. He must collect as many coins as possible, which represent his score.*
+
+
+![Player Jump](https://i.imgur.com/2bEG7NH.jpeg)
+*To complete the level, the player must jump from one platform to another, avoiding obstacles and collecting coins.*
+
+![Searching for the Exit Portal](https://i.imgur.com/SzxKqyh.jpeg)
+*The player searches for and finds the exit portal from level one.*
+
+
+![Entrance to the Level 2](https://i.imgur.com/ufv6toT.jpeg)
+*The player starts to discover the portal from level 2, and in this level it has new challenges and features.*
+
+
+![Exploring the New Platform](https://i.imgur.com/jQckW9Z.jpeg)
+*The player collects the coins and explores the platform of this level.*
+
+
+![Player enemies](https://i.imgur.com/Yi1Cn9L.jpeg)
+*In this level, the player encounters enemies, which if he touches, he will lose his life.*
+
+![Climbing Ladder](https://i.imgur.com/ksXRUW0.jpeg)
+*A new feature of the player in this level is his climbing the ladder to traverse the level in search of the exit portal.*
+
+
+
 ## Game Design
 
 ### Theme
